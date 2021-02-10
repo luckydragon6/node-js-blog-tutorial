@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "startbootstrap-clean-blog": "^5.0.10"
+  },
+  "name": "startbootstrap-clean-blog",
+  "version": "1.0.0",
+  "description": "Create a blog using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "",
+  "license": "ISC"
+}
